@@ -43,7 +43,7 @@ The uploaded screenshot is visually dense and wire junctions are not all unambig
 
 ## Important Links to access my Project
 **Tinkercad Link** - https://www.tinkercad.com/things/bLWEdusoe8g-smart-room-light-system
-**Github Link** - 
+**Github Link** - https://github.com/Aditya13913L/Smart-Room-Light-System-Project-UNLOX.git
 
 ## Safety
 Use only a small LED for this simulation. Do not connect mains-powered room lighting directly to Arduino. Higher-power loads need appropriately rated, isolated driver hardware and adult/supervised electrical safety practices.
