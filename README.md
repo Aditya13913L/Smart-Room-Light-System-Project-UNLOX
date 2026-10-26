@@ -1,5 +1,4 @@
-# Smart-Room-Light-System-Project-UNLOX
-This is the 2nd minor project based on IOT &amp; Robotics @UNLOX based on Smart Room Light System Working
+# Smart Room-Light System Using Sensors
 
 ## Overview
 An Arduino Uno prototype that combines an LDR (ambient light sensor) and a PIR motion sensor. The room-light LED turns on only when motion is detected **and** the room is classified as dark. A buzzer sounds when motion is detected. The screenshot also contains a TMP36 temperature sensor; its optional temperature alert is retained in the code.
@@ -43,7 +42,7 @@ The uploaded screenshot is visually dense and wire junctions are not all unambig
 
 ## Important Links to access my Project
 **Tinkercad Link** - https://www.tinkercad.com/things/bLWEdusoe8g-smart-room-light-system
-**Github Link** - https://github.com/Aditya13913L/Smart-Room-Light-System-Project-UNLOX.git
+**Github Link** - 
 
 ## Safety
 Use only a small LED for this simulation. Do not connect mains-powered room lighting directly to Arduino. Higher-power loads need appropriately rated, isolated driver hardware and adult/supervised electrical safety practices.
